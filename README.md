@@ -1,6 +1,7 @@
 # notificattions_app
 
-A new Flutter project.
+Demo apk link is here
+https://drive.google.com/drive/folders/1YnJvYIBajhNGRMvAEMO4aAZQ22j_f8Fe?usp=sharing
 
 ## Getting Started
 
